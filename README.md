@@ -7,7 +7,7 @@ It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-
 ## TMDB 
 
 This product uses the TMDB API but is not endorsed or certified by [TMDB](https://themoviedb.org)
-It shows the most popular movies on the home page by popularity and has a search function to find details on any movie you're looking for
+It shows the most popular movies on the home page by popularity and has a search function to find details on any movie you're looking for.
 
 
 ## How to use
